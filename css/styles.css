@@ -1,0 +1,55 @@
+
+
+    .carousel-item{
+      height: 300px;
+  }  
+  
+
+  .navbar{
+   background-color:#e47c27;
+  
+}
+
+.btn-primary{
+
+  background-color:#e47c27;
+  border-color: rgb(47, 90, 66);
+  color: white;
+  }
+
+
+  .btn-primary:hover,
+  .btn-primary:focus{
+    background-color: rgb(47, 90, 66);
+}
+
+  .icon{
+    padding-left: 1em;
+  }
+  
+  
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+width: 100%;
+margin: auto;
+padding: 0 1rem;
+}
+
+.container-fluid{
+  display: flex;
+  justify-content: center;
+  background-color: #e47c27; 
+  color: aliceblue;
+  justify-content: space-between;
+}
+.social-icon{
+  margin: 0, 2rem;
+}
+
+
